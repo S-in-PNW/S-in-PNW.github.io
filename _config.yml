@@ -11,7 +11,7 @@
 title: 'Domingo Martin'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Hi, I`m Domingo'
+slogan: 'Thank you for your interest!'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'I am a student of Computer Science at Bellevue College in Bellevue, WA. I am very passionate about learning and have an interest in research, development, and teaching. My goal in life is to help as many people as I can.'
@@ -38,7 +38,7 @@ improve_content: https://github.com/S-in-PNW/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://github.com/S-in-PNW/S-in-PNW.github.io/tree/gh-pages/images'
 
 
 # Logo size is 600x80 pixels
