@@ -38,7 +38,7 @@ improve_content: https://github.com/S-in-PNW/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://S-in-PNW.github.io/images/'
+urlimg: 'https://github.com/S-in-PNW/S-in-PNW.github.io/tree/38d72e00f700b7db11037e4c7385ab17ff3cf44d/images/'
 
 
 # Logo size is 600x80 pixels
